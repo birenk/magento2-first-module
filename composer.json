@@ -1,5 +1,5 @@
 {
-    "name": "birens-software/magento2-first-module",
+    "name": "birenk-software/magento2-first-module",
     "description": "Hello world module using composer!",
     "require": {
     },
@@ -15,8 +15,8 @@
     },
     "authors": [
         {
-            "name": "Javi Lumbrales",
-            "homepage": "https://www.lumbrales-software.com/",
+            "name": "Biren Patel",
+            "homepage": "https://www.google.com/",
             "role": "Developer"
         }
     ]

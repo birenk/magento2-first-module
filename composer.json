@@ -1,5 +1,5 @@
 {
-    "name": "lumbrales-software/magento2-first-module",
+    "name": "birens-software/magento2-first-module",
     "description": "Hello world module using composer!",
     "require": {
     },

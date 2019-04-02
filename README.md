@@ -13,7 +13,7 @@ In order to install it run the below command on the root directory:
         "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/javilumbrales/magento2-first-module"
+            "url": "https://github.com/magento1993/magento2-first-module"
         }],
 
 

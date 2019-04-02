@@ -21,11 +21,11 @@ In order to install it run the below command on the root directory:
 
 - Add the module to composer:
 
-        composer require birenk-software/magento2-first-module
+        composer require biren/magento2-first-module
 
 - Add the new entry in `app/etc/config.php`, under the 'modules' section:
 
-        'LumbralesSoftware_HelloWorld' => 1,
+        'Biren_HelloWorld' => 1,
 
 - Clear cache
 

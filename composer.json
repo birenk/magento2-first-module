@@ -1,5 +1,5 @@
 {
-    "name": "birenk-software/magento2-first-module",
+    "name": "biren/magento2-first-module",
     "description": "Hello world module using composer!",
     "require": {
     },

@@ -21,7 +21,7 @@ In order to install it run the below command on the root directory:
 
 - Add the module to composer:
 
-        composer require birens-software/magento2-first-module
+        composer require birenk-software/magento2-first-module
 
 - Add the new entry in `app/etc/config.php`, under the 'modules' section:
 
